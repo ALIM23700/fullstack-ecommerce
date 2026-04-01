@@ -45,4 +45,32 @@ To run the project locally, please check the individual repositories:
 
 Follow the instructions in each repo to set up and run the project.
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/Home.png)
+
+### Register & Login
+![Register Page](screenshots/Register.png)
+![Login Page](screenshots/Login.png)
+
+### Product Browsing
+![Filter](screenshots/Filter.png)
+![Product Page](screenshots/Product.png)
+![Product Details](screenshots/ProductDetails.png)
+
+### Cart & Checkout
+![Cart Page](screenshots/Cart.png)
+![Checkout Page](screenshots/Checkout.png)
+![Payment Gateway](screenshots/PaymentGatweway.png)
+
+### User Profile & Info
+![Profile Page](screenshots/Profile.png)
+![About Page](screenshots/About.png)
+![Contact Page](screenshots/Contact.png)
+
+### Admin Panel
+![Admin Orders](screenshots/AdminPageOrder.png)
+![Admin Create Product](screenshots/AdminpageCreateProduct.png)
+
 
