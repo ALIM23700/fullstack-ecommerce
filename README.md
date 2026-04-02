@@ -32,8 +32,8 @@ The app features user authentication, real-time updates, and a responsive design
 - Easy-to-navigate **UI/UX** using Tailwind CSS
 
  ## 📁 Project Structure
-- Frontend code → lives in your [FullstackEcommers_Frontend](https://github.com/ALIM23700/FullstackEcommers_Frontend) repo  
-- Backend code → lives in your [FullstackEcommers_Backend](https://github.com/ALIM23700/FullstackEcommers_Backend) repo  
+- Frontend code → lives in my [FullstackEcommers_Frontend](https://github.com/ALIM23700/FullstackEcommers_Frontend) repo  
+- Backend code → lives in my [FullstackEcommers_Backend](https://github.com/ALIM23700/FullstackEcommers_Backend) repo  
 - This README → provides project overview, features, and repo links
 
 - ## ⚙️ Setup Instructions
