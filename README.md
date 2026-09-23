@@ -1,4 +1,5 @@
 # 🛒 Fullstack E-Commerce App
+Showcase repository: This repository serves as a showcase for the project. The source code is maintained in separate frontend and backend repositories.
 
 ## 🔗 Project Repositories
 - 💻 Frontend: [FullstackEcommers_Frontend](https://github.com/ALIM23700/FullstackEcommers_Frontend)
